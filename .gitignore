@@ -1,0 +1,32 @@
+# Never commit secrets or private material
+.ssh/
+.gnupg/
+.aws/
+.kube/
+.netrc
+.bash_history
+.zsh_history
+.python_history
+.lesshst
+.wget-hsts
+
+# Cache / state
+.cache/
+.local/share/
+.local/state/
+.config/**/Cache/
+.config/**/cache/
+.npm/
+.pip/
+.vscode/
+
+# Logs and temp
+*.log
+tmp/
+*.swp
+*~
+
+# Pi-hole specific (if you ever dump configs)
+**/pihole-FTL.db
+**/pihole.log
+
