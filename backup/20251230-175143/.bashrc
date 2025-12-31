@@ -1,0 +1,1 @@
+/home/nickterrel/raspberry/dotfiles/bashrc
