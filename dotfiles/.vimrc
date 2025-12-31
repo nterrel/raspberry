@@ -44,5 +44,5 @@ nnoremap <F3> :set hlsearch!<CR>
 nnoremap Y y$
 
 " Set indention tabs to display dot character
-set list
-set listchars=tab:▸\ ,trail:·
+" set list
+" set listchars=tab:▸\ ,trail:·
